@@ -5,7 +5,9 @@ built from the public USGS earthquake catalog.
 
 **Full documentation:** [docs/problem.md](docs/problem.md) ·
 [docs/approach.md](docs/approach.md) · [docs/running.md](docs/running.md) ·
-[docs/dataset.md](docs/dataset.md) · [docs/limitations.md](docs/limitations.md)
+[docs/dataset.md](docs/dataset.md) · [docs/limitations.md](docs/limitations.md) ·
+[docs/vision.md](docs/vision.md) — non-obvious insights, what this unlocks,
+and use cases at scale
 · [results/FINDINGS.md](results/FINDINGS.md)
 
 ## The problem

@@ -28,6 +28,27 @@ Window: 2016-01-01 → 2026-09-16. Bounding box 40.0–49.5°N, 126–116°W.
 - The aftershock fit describes one sequence with a simple box selection;
   it is not a calibrated forecasting model.
 
+## Non-obvious insights from this data
+
+1. **Estimator choice moves the headline number by 20%.** MLE b = 1.03 vs
+   least-squares b = 0.83 on identical data — methodology, not geology.
+   Public seismic statistics should name their estimator like polls name
+   their margin of error.
+2. **The decade's biggest sequence decayed faster than textbook**
+   (Omori p = 1.18 vs canonical ~1.0, R² = 0.89) — a generic model would
+   have overestimated the danger window, and over-warning erodes trust.
+3. **Only ~9% of events fell within 200 km of Seattle** while the largest
+   was 700+ km away — reassuring, but misleading, because the quiet
+   Cascadia megathrust holding the region's largest risk is invisible in a
+   10-year catalog. The most important hazard is the one this dataset
+   cannot see.
+4. **Median depth 12.5 km: the felt record is shallow crustal seismicity.**
+   Deep slab events are a different hazard class barely represented here —
+   "earthquake risk" is at least two phenomena wearing one name.
+
+See [docs/vision.md](../docs/vision.md) for the full write-up: what becomes
+possible in the future because of this work, and concrete use cases at scale.
+
 ## Artifacts
 
 - `metrics.txt` — every computed number.
