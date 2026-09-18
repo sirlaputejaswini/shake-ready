@@ -1,0 +1,14 @@
+# Fetched catalog data — public data, never committed (see DATA_POLICY.md)
+data/
+
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor / OS noise
+.DS_Store
+*.swp

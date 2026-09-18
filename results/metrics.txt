@@ -1,0 +1,17 @@
+events: 3463
+window_start: 2016-01-01
+window_end: 2026-09-16
+completeness_mc: 2.5
+b_value_mle: 1.027
+b_value_least_squares: 0.835
+events_at_or_above_mc: 3463
+largest_event_magnitude: 7.0
+largest_event_time: 2024-12-05
+largest_event_place: 2024 Offshore Cape Mendocino, California Earthquake
+aftershocks_in_window: 322
+omori_p: 1.178
+omori_c_days: 0.7846
+omori_K: 89.31
+omori_r2: 0.885
+events_within_200km_of_seattle: 314
+median_depth_km: 12.48

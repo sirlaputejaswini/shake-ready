@@ -1,0 +1,23 @@
+SHAKE-READY: PACIFIC NORTHWEST SEISMICITY BRIEFING
+Generated 2026-09-18 from the USGS Earthquake Catalog (public domain).
+
+IMPORTANT: Everything in this briefing describes PAST seismicity. It does not predict when, where, or how large the next earthquake will be. No statistical method applied here has forecasting power.
+
+WHAT THE DATA SHOW (2016 to present, magnitude 2.5 and up):
+- 3,463 earthquakes were recorded in the Pacific Northwest bounding box between 2016-01-01 and 2026-09-16.
+- The catalog is reasonably complete down to magnitude 2.5.
+- Gutenberg-Richter b-value: 1.03 (least-squares check: 0.83). A b-value near 1 is typical worldwide: each step down in magnitude brings roughly ten times as many earthquakes.
+- Largest event in the window: magnitude 7.0, 2024 Offshore Cape Mendocino, California Earthquake on 2024-12-05.
+- After that mainshock, 322 aftershocks were recorded within 100 km over 30 days. The decay fits the Omori-Utsu law with p = 1.18 (c = 0.785 days, R^2 = 0.88) — a textbook relaxing sequence, exactly what seismologists expect.
+- 314 of the events occurred within 200 km of downtown Seattle; the median event depth was 12.5 km.
+
+WHAT THIS MEANS FOR PREPAREDNESS:
+- The Pacific Northwest is seismically active on human timescales: hundreds of detectable earthquakes every year. Most are too small to feel, but the same faults produce the region's large ones.
+- Aftershock sequences last weeks to months after a large event — that is the one timing statement the data support, and it only applies *after* a mainshock has already happened.
+- Standard public guidance (not derived from this data): keep two weeks of food, medication, and emergency supplies; secure heavy furniture; know Drop, Cover, and Hold On; keep shoes and a flashlight by the bed. See ready.gov and the Washington Emergency Management Division for checklists.
+
+HONEST LIMITS OF THIS BRIEFING:
+- Magnitude 2.5 is a *recent-era* completeness level for this region. Earlier catalogs and smaller events are undercounted, so long-term rates inferred from short windows are approximate.
+- The aftershock box is a simple distance/time window, not a proper declustering — a few background events are mixed in.
+- Seattle is at (47.6062, -122.3321); 'distance to Seattle' is epicentral distance, not shaking intensity, which depends on depth, geology, and building type.
+- Again: none of this predicts the next earthquake.
