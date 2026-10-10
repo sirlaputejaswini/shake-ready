@@ -10,6 +10,8 @@ built from the public USGS earthquake catalog.
 and use cases at scale
 · [results/FINDINGS.md](results/FINDINGS.md)
 
+Living in Seattle, you absorb a background fact most newcomers don't have yet: the Cascadia subduction zone is overdue for a magnitude-9, and nobody can tell you when. I built this because I wanted the honest version of preparedness — what the last decade of actual seismic data says, stated plainly, with the limits printed right next to the numbers.
+
 ## The problem
 
 The Cascadia region faces a major earthquake in the coming decades — the
